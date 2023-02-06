@@ -83,4 +83,7 @@ The description for each file included here are as follows:
 		.mod file for creating vectors that contain stimulation patterns
 		
 		
-		
+Changelog
+---------
+2022-12: Updated MOD files to contain valid C++ and be compatible with
+the upcoming versions 8.2 and 9.0 of NEURON.		

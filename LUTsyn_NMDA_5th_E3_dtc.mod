@@ -371,7 +371,7 @@ PROCEDURE find_gain(){
 		
 	: use the index to access the look-up table
 	 VERBATIM
-	 gain = _p_gain_array[(int) index];
+	 gain = ((double*)_p_gain_array)[(int) index];
 	 ENDVERBATIM
  
 	 
