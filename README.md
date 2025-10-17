@@ -56,3 +56,4 @@ See paper: "Bridging hierarchies in multi-scale models of neural systems: Look-u
 ## Changelog
 
 - 2022-12: Updated MOD files to contain valid C++ and be compatible with the upcoming versions 8.2 and 9.0 of NEURON.
+- 2025-10-17: Fixed data download link and converted readme to markdown.
